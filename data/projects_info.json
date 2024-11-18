@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "name": "transcendance",
+            "description": "Full-stack web application for real-time chat and online ping-pong matches",
+            "technologies": [
+                "Next.js",
+                "Django",
+                "WebSockets",
+                "Docker",
+                "Elasticsearch",
+                "Kibana"
+            ],
+            "highlights": [
+                "Secure user authentication",
+                "Real-time communication",
+                "Competitive ranking system"
+            ]
+        },
+        {
+            "name": "inception",
+            "description": "Docker-based infrastructure project with multi-container setup",
+            "technologies": [
+                "Shell",
+                "Docker",
+                "Nginx",
+                "Redis",
+                "MariaDB"
+            ],
+            "highlights": [
+                "Nginx reverse proxy and load balancer",
+                "Secured container infrastructure",
+                "Docker Compose orchestration"
+            ]
+        },
+        {
+            "name": "webserv",
+            "description": "HTTP server developed from scratch in C++",
+            "technologies": [
+                "C++",
+                "HTTP/1.1 Protocol"
+            ],
+            "highlights": [
+                "Implemented HTTP/1.1 protocol",
+                "CGI support",
+                "Multiplexing for efficient client connections"
+            ]
+        }
+    ]
+}

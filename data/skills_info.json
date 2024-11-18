@@ -1,0 +1,40 @@
+{
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "skills": [
+                {"name": "Python", "description": "Advanced full-stack and backend development", "icon": "🐍"},
+                {"name": "C/C++", "description": "System programming and low-level development", "icon": "🖥️"},
+                {"name": "Go", "description": "Efficient backend and network programming", "icon": "🚀"},
+                {"name": "Typescript", "description": "Frontend type-safe development", "icon": "📘"},
+                {"name": "Javascript", "description": "Dynamic web application development", "icon": "✨"}
+            ]
+        },
+        {
+            "category": "Frameworks",
+            "skills": [
+                {"name": "Django", "description": "Python web framework for robust backend services", "icon": "🌐"},
+                {"name": "React", "description": "Modern frontend component-based development", "icon": "⚛️"},
+                {"name": "NextJS", "description": "React framework with server-side rendering", "icon": "🔷"},
+                {"name": "FastAPI", "description": "High-performance Python web framework", "icon": "🚀"}
+            ]
+        },
+        {
+            "category": "Tools & Platforms",
+            "skills": [
+                {"name": "Docker", "description": "Containerization and deployment automation", "icon": "🐳"},
+                {"name": "Git", "description": "Version control and collaborative development", "icon": "🐙"},
+                {"name": "Nginx", "description": "Web server and reverse proxy configuration", "icon": "🌐"},
+                {"name": "Redis", "description": "In-memory data structure store", "icon": "🔴"}
+            ]
+        },
+        {
+            "category": "Databases",
+            "skills": [
+                {"name": "PostgreSQL", "description": "Relational database management", "icon": "💾"},
+                {"name": "SQL", "description": "Database querying and data manipulation", "icon": "📊"},
+                {"name": "MariaDB", "description": "Open-source relational database", "icon": "🗃️"}
+            ]
+        }
+    ]
+}

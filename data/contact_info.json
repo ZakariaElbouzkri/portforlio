@@ -1,0 +1,32 @@
+{
+    "personal": {
+        "name": "Zakaria Elbouzkri",
+        "email": "elbouzkri9@gmail.com",
+        "phone": "+212659990263",
+        "location": "Hay Salam, Agadir sous-massa, Morocco"
+    },
+    "social_links": {
+        "leetcode": "#",
+        "github": "#",
+        "linkedin": "#",
+        "hackerrank": "#"
+    },
+    "about": {
+        "professional_summary": "I am a passionate Software Engineer specializing in full-stack development and system programming. With a strong foundation in computer science and hands-on experience in multiple programming languages, I transform complex technical challenges into elegant, efficient solutions.",
+        "education": {
+            "institution": "UM6P 1337 Coding School (42 Network)",
+            "location": "Khouribga, Morocco",
+            "program": "Computer Science Project-Based Education Program",
+            "highlights": [
+                "Innovative learning approach focusing on practical skills and peer-to-peer learning",
+                "Completed with 100% performance"
+            ]
+        },
+        "professional_highlights": [
+            "Expertise in back-end web development",
+            "Strong background in system programming",
+            "Experience with containerization and DevOps",
+            "Proactive learner with adaptability to new technologies"
+        ]
+    }
+}
